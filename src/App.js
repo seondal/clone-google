@@ -18,7 +18,7 @@ const Header = styled.div`
   width: 100%;
   justify-content: flex-end;
   height:50px;
-  mprgin-top:3px;
+  margin-top:3px;
 `
 
 const Button = styled.button`
