@@ -14,7 +14,3 @@
 - 기본적인 JS, HTML, CSS 명령어 및 문법들
 
     [[CSS] Flexbox Froggy 풀면서 CSS flexbox 공부하기](https://whkakrkr.tistory.com/entry/CSS-Flexbox-Froggy-CSS-flexbox-%EC%A0%95%EB%8B%B5%EA%B3%BC-%EA%B3%B5%EB%B6%80?category=982843)
-
-### 🔗 Links
-
-[seondal/clone-google](https://github.com/seondal/clone-google)
