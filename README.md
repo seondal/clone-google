@@ -1,7 +1,5 @@
 # clone-google-darkmode
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/095c404e-ee7a-4d0b-a4f7-c93b9f5721aa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/095c404e-ee7a-4d0b-a4f7-c93b9f5721aa/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/75469131/128415675-4e5d813a-d170-48bf-8e65-f59dd57ca2d0.png)
 ### ❔ This is
 
 - 구글 메인화면 클론코딩
